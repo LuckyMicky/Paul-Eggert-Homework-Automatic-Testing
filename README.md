@@ -1,4 +1,4 @@
-# Paul-Eggert-s-Homework-Summary
+# Homework-automatic-testing
 produces a difference summary of where the two Scheme expressions are the same and where they differ.
 
 Sample Test Cases:
